@@ -1,0 +1,57 @@
+Select Rock(r),paper(p),or Scissors(s): s
+r
+comp chooses 'rock' YOU LOOSE!!!
+your score: 0
+comp score: 1
+
+Do you want to continue:Y/N y
+Select Rock(r),paper(p),or Scissors(s): p
+s
+comp chooses 'scisssors' ,you LOOSE!!
+your score: 0
+comp score: 2
+
+Do you want to continue:Y/N y
+Select Rock(r),paper(p),or Scissors(s): s
+p
+comp chooses 'paper' YOU WON!
+your score: 1
+comp score: 2
+
+Do you want to continue:Y/N y
+Select Rock(r),paper(p),or Scissors(s): p
+s
+comp chooses 'scisssors' ,you LOOSE!!
+your score: 1
+comp score: 3
+
+Do you want to continue:Y/N y
+Select Rock(r),paper(p),or Scissors(s): r
+r
+comp chooses rock so,it is tie
+your score: 1
+comp score: 3
+
+Do you want to continue:Y/N y
+Select Rock(r),paper(p),or Scissors(s): s
+p
+comp chooses 'paper' YOU WON!
+your score: 2
+comp score: 3
+
+Do you want to continue:Y/N y
+Select Rock(r),paper(p),or Scissors(s): p
+s
+comp chooses 'scisssors' ,you LOOSE!!
+your score: 2
+comp score: 4
+
+Do you want to continue:Y/N y
+Select Rock(r),paper(p),or Scissors(s): r
+s
+comp choose 'scissors' YOU WON!!!
+your score: 3
+comp score: 4
+
+Do you want to continue:Y/N n
+Thanks for playing!!!!
