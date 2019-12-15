@@ -1,0 +1,88 @@
+Output-1:
+
+Let's play a game of Hangman. The word has 6 letters in it.
+ You get 5 guesses.
+You have to Guess the color
+- - - - - -
+
+guess the letter of a color: e
+you have guessed:  1 correct letters.
+you have:  5 chances left
+- e - - - -
+
+guess the letter of a color: l
+you have guessed:  3 correct letters.
+you have:  5 chances left
+- e l l - -
+
+guess the letter of a color: y
+you have guessed:  4 correct letters.
+you have:  5 chances left
+y e l l - -
+
+guess the letter of a color: w
+you have guessed:  5 correct letters.
+you have:  5 chances left
+y e l l - w
+
+guess the letter of a color: o
+you have guessed:  6 correct letters.
+you have:  5 chances left
+y e l l o w
+
+Well done!! you guessed the word
+YAY!  Thanks for playing!!
+
+
+-----------------------------------------------------------------------------------------------------
+Output-2:
+
+
+Let's play a game of Hangman. The word has 6 letters in it.
+ You get 5 guesses.
+You have to Guess the color
+- - - - - -
+
+guess the letter of a color: k
+sorry..! it's a wrong guess,you have 4 chances left
+you have guessed:  0 correct letters.
+you have:  4 chances left
+- - - - - -
+
+guess the letter of a color: e
+you have guessed:  1 correct letters.
+you have:  4 chances left
+- e - - - -
+
+guess the letter of a color: g
+sorry..! it's a wrong guess,you have 3 chances left
+you have guessed:  1 correct letters.
+you have:  3 chances left
+- e - - - -
+
+guess the letter of a color: t
+sorry..! it's a wrong guess,you have 2 chances left
+you have guessed:  1 correct letters.
+you have:  2 chances left
+- e - - - -
+
+guess the letter of a color: a
+sorry..! it's a wrong guess,you have 1 chances left
+you have guessed:  1 correct letters.
+you have:  1 chances left
+- e - - - -
+
+guess the letter of a color: l
+you have guessed:  3 correct letters.
+you have:  1 chances left
+- e l l - -
+
+guess the letter of a color: q
+sorry..! it's a wrong guess,you have 0 chances left
+you have guessed:  3 correct letters.
+you have:  0 chances left
+- e l l - -
+
+oh sorry !! you ran out of goes
+
+
